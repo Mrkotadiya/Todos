@@ -1,0 +1,8 @@
+.todos {
+    display: flex;
+    justify-content: space-evenly;
+    width: 30%;
+    flex-wrap: wrap;
+    margin: 140px 0px 0px 0px;
+  }
+  
